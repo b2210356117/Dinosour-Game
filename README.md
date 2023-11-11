@@ -11,8 +11,6 @@ Implementations:
 
 Player has an animated sprite.
 
-All the sprites are made by me. 
-
 Obstacles move on to the 'dead' sprite when they're hit by the player.
 
 Player has 6 health which you can keep track from the upper right side of the screen.
