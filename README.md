@@ -12,14 +12,20 @@ Obstacles move on to the 'dead' sprite when they're hit by the player.
 Player has 6 health which you can keep track from the upper right side of the screen.
 Different track for game over screen.
 
+
 Pixel art I made for this game:
+
 ![samurai run animation](https://github.com/b2210356117/Dinosour-Game/assets/92156971/986ae963-16e6-414b-8657-812a1c45b1ff)
+
 Also everything else you see in the game, except for writing.
 
 
 Audio Tracks used on the game are from a game called Deltarune.
 Here are their YouTube links:
+
 https://www.youtube.com/watch?v=PhhGEA_317w
+
 https://www.youtube.com/watch?v=VrZlWz8pIU0
+
 (hit and score audios are also from that game)
 
